@@ -1,0 +1,71 @@
+Simplify the algerbraic expression :		-6x + 5 + 12x -6 # 6x - 1
+Simplify the algerbraic expression:		2(x - 9) + 6(-x + 2) + 4x#-6 
+Simplify the algerbraic expression:		3x2 + 12 + 9x - 20 + 6x2 - x #9x2 + 8x - 8 
+Simplify the algerbraic expression:		(x + 2)(x + 4) + (x + 5)(-x - 1)#3  
+Simplify the algerbraic expression:		1.2(x - 9) - 2.3(x + 4)#-1.1x - 20 
+Simplify the algerbraic expression:		(x2y)(xy2)#x3y3 
+Simplify the algerbraic expression:		(-x2y2)(xy2)#- x3y4 
+Solve for x the following linear equation :		 2x = 6 #3
+Solve for x the following linear equation :		 6x - 8 = 4x + 4#6 
+Solve for x the following linear equation :	 	4(x - 2) = 2(x + 3) + 7#21/2 
+Solve for x the following linear equation :	 	0.1 x - 1.6 = 0.2 x + 2.3#-39 
+Solve for x the following linear equation :	 	- x / 5 = 2 #-10
+Solve for x the following linear equation :	 	(x - 4) / (- 6) = 3 #-14
+Solve for x the following linear equation :	 	(-3x + 1) / (x - 2) = -3#no solution 
+Solve for x the following linear equation :	 	x / 5 + (x - 1) / 3 = 1/5#1
+If Logx (1 / 8) = - 3 / 2, then x is equal to?		#4
+20 % of 2 is equal to		#0.4
+If Log 4 (x) = 12, then log 2 (x / 4) is equal to		#22
+The value of x + x(xx) when x = 2 is:		#10
+If (0.2)x = 2 and log 2 = 0.3010, then the value of x to the nearest tenth is:		#-0.4
+627 + 183 = ?		#810
+20 – 3 × 5 = ?		#5
+square root of (32 + 42) = ?		#5
+How many sides does a decagon have?		#10
+What is 70.3 divided by 10?		#7.03
+What is two thirds of 270?		#180
+What is the square root of 81?	 		#9
+How many degrees are there in a right angle?		#90
+What is the smallest prime number?		#2
+What is 0.88 as a percentage?		#88%
+What is three fifths of 50?		#30
+How many straight edges does a cube have?		#12
+What is the square root of 100?			#10
+What is 4 x 9?		#36
+What is 4995 divided by 15?		#333
+What is 11 x 7?		#77
+What is 0.75 as the lowest possible fraction?		#3/4
+What is the total number of degrees in a triangle?		#180	
+How many hours are there in seven days?		#168
+What is 9 x 6?		#54
+What is 60% of 40?		#24
+What is the square route of 144?		#12
+What is 11 x 11?		#112	 	
+What is 100 – 151?		#-51
+What number must you add to 66 to make the sum of 121?		#55
+What is 12 x 6?		#72
+What name is give to a triangle with no equal sides?		#scalene
+How many yards are in one mile: 100, 170 or 1760?		#1760
+What is 134 x 24: 2456, 3542 or 3216?		#3216
+How many degrees are there in a right angle?	 	#90	
+What mathematical term is given to 3.14159265?		#pi
+true or false: the “mean” number is the most common number in a collection?		#false
+How many degrees do the angles inside a quadrilateral amount to?		#360
+What is the missing number from the following sequence: 8, 16, 32, ...,128, 256, 512?		#64
+If a triangle has one angle of 60 degrees, a second angle of 90 degrees, how many degrees would the third angle measure?		#30
+What is 90.3 divided by 10?		#9.03
+Find the incorrect number in the following series: 4, 9, 16, 24, 36, 49, 64, 81, 100		#24
+How many seconds are there in one hour?		#3600
+What is the square root of 100?		#10
+If 1609.34 meters is equivalent to one mile, how many lengths, to the nearest length, would complete one mile in a 25 meter swimming pool?		#64
+What is 921 - 356?		#565	 
+Paul needs 13 bottles of lemonade from the shop but he can only carry 3 bottles at a time. How many trips to the shop will Paul need to make?		#5	 
+What is 1/5 of 1/2 of 1/4 of 600?		#15	 
+Complete the following mathematical sequence: 120, 360, 1080, ...		#3240
+What mathematical term is given to 3.14159265?		#pi
+How many degrees are there on one side of a straight line (a straight angle)?		#180
+Frankie buys 1 pencil and 1 rubber for R1.10, Jimmy buys 1 pencil and 1 ruler for R1.30, Sandy buys 1 ruler and 1 rubber for R1.40 - what is the cost of 1 pencil?		#0.50	 	
+What is two thirds of 960?		#640
+What is the cube root of 27?		#3
+What name is given to a triangle with one angle greater than 90 degrees?		#obtuse
+What is the next number in the following sequence: 2, 4, 8, 20, 40, 80, 200, 400, ***?		#800
