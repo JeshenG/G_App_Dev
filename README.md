@@ -1,5 +1,4 @@
 # G_App_Dev
-Source code for some of the games I created back when I was in University.
 
 The_Maze_Gunner (Game project) (2017)
 An educational 3D game that I designed and implemented using the Open Graphics Library together with the C++ language.
